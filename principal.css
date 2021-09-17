@@ -163,6 +163,11 @@ font-size: 20px;
 .comentarios section{
     margin-left: 10rem;
 }
+.estrella{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 .footer{
     background-color: black;
     color: white;
